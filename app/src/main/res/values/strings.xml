@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ActivityLifyCycle</string>
+
+    <string name="title">Activity Life Cycle</string>
+    <string name="oncreate">OnCreate()</string>
+    <string name="onstart">OnStart()</string>
+    <string name="onResume">OnResume()</string>
+    <string name="onpuse">OnPause()</string>
+    <string name="onstop">OnStop()</string>
+    <string name="ondestroy">OnDestroy()</string>
+    <string name="running">Activity Running</string>
+    <string name="restart">OnRestart()</string>
+</resources>
